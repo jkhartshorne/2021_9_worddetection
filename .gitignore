@@ -1,8 +1,10 @@
 #Ignore These Files
 Data/audio_files
 
-PilotScripts/rawfiles/*
-PilotScripts/parsedfiles/*
+PilotScripts/rawfiles/*.wav
+PilotScripts/rawfiles/*.mp3
+PilotScripts/rawfiles/*.mp4
+PilotScripts/parsedfiles/*.wav
 
 **/*.DS_Store
 **/*.sublime*
