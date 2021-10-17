@@ -1,0 +1,30 @@
+Location|Corpus|Age Range|N|Media|Comments
+CHILDES|Bates|1;8 and 2;4|27|video|two sessions for each child
+CHILDES|Bernstein|1;1-1;11|9|audio|play sessions and mother interviews
+CHILDES|Bloom|1;9-3;2|3|audio|large longitudinal study of one child and samples for two others
+CHILDES|Braunwald|1;0-6;0|1|audio|longitudinal study with audio and diary notes
+CHILDES|Brent|0;6-1;0|16|audio|mothers speaking to preverbal infants, linked
+CHILDES|Gleason|2;1-5;2|48|audio|mother-child, father-child, and dinner, linked
+CHILDES|HSLLD|2-6|83|audio|Harvard home-school project
+CHILDES|Hall|4;6-5;0|39|audio|White/Black; working/professional
+CHILDES|MacWhinney|0;7-8;0|2|audio|two brothers in natural situations, linked
+CHILDES|McCune|1-3|9|video|work in progress, linked
+CHILDES|McMillan|3;0|2|video|small book reading samples, linked
+CHILDES|Nelson|1;9-3;0|1|audio|bedtime monologues, linked
+CHILDES|NewEngland|1;2, 1;8, 2;3|52|audio|lab sessions with three activities
+CHILDES|NewmanRatner|0;7-2;0|121|audio|home visits
+CHILDES|Peters|1;7-4;1|1|audio|father and his visually-impaired son
+CHILDES|Rollins|6, 9, 12 months|12|video|play sessions
+CHILDES|Sachs|1;1-5;1|1|audio|longitudinal study, linked
+CHILDES|Snow|2;3-3;9|1|audio|longitudinal study with lots of book reading, linked
+CHILDES|Soderstrom|0;6-1;0|2|audio|mothers with their preverbal children, linked
+CHILDES|VanHouten|at 2;0 and then at 3;0|28|audio|adolescent vs older mothers, 3 situations
+CHILDES|Weist|2;1-5;0|6|audio|aspect learning
+PHONBANK|Davis|0;7-2;4|21|audio|in PhonBank
+PHONBANK|Goad|1;5-3;6|2|audio|in PhonBank
+PHONBANK|Menn|0;6-4;0|1|audio|in PhonBank
+PHONBANK|PaidoEnglish|2;0-5;0|81|audio|in PhonBank
+PHONBANK|Providence|1-3|6|video|in PhonBank
+CHILDES|EllisWeismer|2;6, 3;6, 4;6, 5;6|138|audio|late talkers and controls
+CHILDES|POLER|5-12|26 controls|audio|children with epilepsy and controls, linked
+CHILDES|ENNI|4-9|300 controls|audio|children with SLI and TD
